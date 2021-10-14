@@ -1,0 +1,33 @@
+h1,h2{
+    font-family: Tahoma;
+    text-align: center;
+    color: midnightblue;
+}
+
+.excerpt{
+    font-family: Verdana;
+    color: indigo;
+    font-size: larger;
+    margin-left: 30px;
+}
+.text{
+    font-family: Verdana;
+    color: #212323;
+    font-size: medium;
+    line-height: 1.5;
+    margin: 15px
+}
+p.text:first-letter {
+    font-size: 3em;
+    color: indigo;
+    float: left;
+    margin: 4px;
+}
+
+.rghtimg {
+    float: right;
+}
+
+ul {
+    list-style-type: square;
+}
